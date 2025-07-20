@@ -1,7 +1,8 @@
 {
   "_id": "klznd4ddo0nj60qkptnhup",
-  "name": "Bob",
+  "name": "tom",
   "email": "bob@example.com",
   "age": 25,
-  "createdAt": "2025-07-20T10:10:34.335Z"
+  "createdAt": "2025-07-20T10:10:34.335Z",
+  "updatedAt": "2025-07-20T11:06:43.318Z"
 }
