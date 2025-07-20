@@ -4,5 +4,6 @@
   "email": "bob@example.com",
   "age": "20000",
   "createdAt": "2025-07-20T10:10:34.335Z",
-  "updatedAt": "2025-07-20T11:08:48.887Z"
+  "updatedAt": "2025-07-20T11:09:33.592Z",
+  "place": "chennai"
 }
